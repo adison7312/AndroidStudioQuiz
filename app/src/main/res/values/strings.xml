@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question1">Wiedźmin, znany jako Geralt z Rivii, jest postacią fikcyjną stworzoną przez polskiego pisarza Andrzeja Sapkowskiego.</string>
+    <string name="question2"> Saga o Wiedźminie skupia się na przygodach Geralta, który jest profesjonalnym łowcą potworów.</string>
+    <string name="question3">Wiedźmin, Geralt z Rivii, jest znany z noszenia charakterystycznego ubrania w kolorze fioletowym.</string>
+    <string name="question4"> Yennefer z Vengerbergu, znana jako Yennefer, jest jednym z głównych miłościowych związków Geralta z Rivii w sagi o Wiedźminie.</string>
+    <string name="question5">Ciri, znana również jako Cirilla Fiona Elen Riannon, jest córką Geralta z Rivii.</string>
+    <string name="question6">Wiedźmin jest znany z używania różnych eliksirów i magicznych umiejętności w walce z potworami i innymi niebezpieczeństwami.</string>
+    <string name="question7">Wiedźmin Geralt jest człowiekiem, który zdobył swoje nadludzkie umiejętności dzięki eksperymentom magicznym.</string>
+    <string name="question8">Wiedźmin Geralt nosi zawsze charakterystyczną srebrną broń do walki z ludźmi.</string>
+    <string name="question9">Triss Merigold jest jednym z możliwych romansów dla Geralta w grach komputerowych "Wiedźmin".</string>
+    <string name="question10">Wiedźmin jest popularną serią książek fantasy, która doczekała się także adaptacji telewizyjnej przez Netflix.</string>
+
+    <string name="correct_answer">Odpowiedź prawidłowa :)</string>
+    <string name="incorrect_answer">Błędna odpowiedź :(</string>
+</resources>
