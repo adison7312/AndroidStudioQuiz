@@ -17,4 +17,10 @@
 
     <string name="correct_answer">Odpowiedź prawidłowa :)</string>
     <string name="incorrect_answer">Błędna odpowiedź :(</string>
+
+    <string name="prompt_question">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="prompt_confirm">Pokaż odpowiedź</string>
+    <string name="prompt_btn">Podpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 </resources>
